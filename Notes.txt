@@ -1,0 +1,12 @@
+DOM:terminology to describe and interact with any web page
+document: web page 
+object: anything that can be treated as an individual thing
+model: set of terms 
+
+document.getElementById("someId")
+ex:
+var myElement = document.getElementById("abc");
+
+document.getElementsByTagName("a");
+ex:
+var myListItems = document.getElementsByTagName("li");
